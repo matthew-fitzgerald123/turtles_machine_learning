@@ -16,7 +16,7 @@ By using a generated tutorial, I was able to debug and elaborate with more advan
 
 4. I then created a script to observe the model's accuracy, and it is very accurate.
 
-Libraries used:
+**Libraries used:**
 PIL, Augmentor, Requests, Tensorflow, Numpy
 
 I wanted to make a succesful model, not just a work in progress. This model is very, very accurate. Very fun experience!
