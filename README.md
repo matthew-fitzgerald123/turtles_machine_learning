@@ -1,4 +1,4 @@
-# seaTurtles
+# turtles
 I wanted to train a model to recognize sea turtles.
 
 **Process**
