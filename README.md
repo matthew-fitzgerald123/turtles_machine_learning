@@ -12,7 +12,7 @@ I then performed augmentations to expand the dataset greatly. This ensured a mor
 
 2. Using a generated tutorial, I was able to create a script to train a model on turtle recognition.
 
-By using a generated tutorial, I was able to debug and elaborate with more advanced techniques exponentially faster than possible without.
+3. By using another generated tutorial, I was able to debug and elaborate with more advanced techniques exponentially faster than possible without.
 
 4. I then created a script to observe the model's accuracy, and it is very accurate.
 
