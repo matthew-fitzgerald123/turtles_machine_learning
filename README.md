@@ -3,7 +3,7 @@ machine learning project
 
 I wanted to train a model to recognize sea turtles.
 
-** Development Process:**
+**Development Process:**
 1. Gathered a dataset of images of turtles and 'not turtles'. 
 2. Performed augmentations to expand the dataset greatly. This ensured a more accurate model with a more expansive, symmetrical dataset.
 3. Created a script to train a model on turtle recognition.
