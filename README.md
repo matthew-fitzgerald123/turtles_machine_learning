@@ -1,22 +1,16 @@
 # turtles
+machine learning project
+
 I wanted to train a model to recognize sea turtles.
 
-**Process**
+** Development Process:**
 1. Gathered a dataset of images of turtles and 'not turtles'. 
-
-Using a python script I was able to perform image modification operations to expand the dataset. 
-I made use of Wikimedia Commons API to gather my images for free. 
-Then after gathering my images, I performed a check to ensure that each image downloaded was not corrupted and in a supported file format. 
-
-I then performed augmentations to expand the dataset greatly. This ensured a more accurate model with a more expansive, symmetrical dataset.
-
-2. Using a generated tutorial, I was able to create a script to train a model on turtle recognition.
-
-3. By using another generated tutorial, I was able to debug and elaborate with more advanced techniques exponentially faster than possible without.
-
-4. I then created a script to observe the model's accuracy, and it is very accurate.
+2. Performed augmentations to expand the dataset greatly. This ensured a more accurate model with a more expansive, symmetrical dataset.
+3. Created a script to train a model on turtle recognition.
+4. Debugged and elaborated the model.
+5.Created a .python script to observe the model's accuracy (it is very accurate).
 
 **Libraries used:**
 PIL, Augmentor, Requests, Tensorflow, Numpy
 
-I wanted to make a succesful model, not just a work in progress. This model is very, very accurate. Very fun experience!
+This model is very, very accurate. Very fun experience!
